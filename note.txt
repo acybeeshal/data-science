@@ -1,0 +1,5 @@
+dictionary      for key, value in my_dict.items() :     // here used the method items
+numpy           for  value in np.nditer(my_arrays) :    // here used the function nditer
+for lab, row in brics.iterrows() :         // here df loop is done 
+also done by using apply function without using for loop
+    
