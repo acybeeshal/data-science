@@ -1,4 +1,9 @@
 # numpy and matplotlib imported, seed set
+# Import numpy as np
+import numpy as np
+import matplotlib.pyplot as plt
+# Set the seed
+np.random.seed(123)
 
 # clear the plot so it doesn't get cluttered if you run this many times
 plt.clf()
